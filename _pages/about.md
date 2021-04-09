@@ -6,8 +6,6 @@ last_modified_at: 2021-04-09
 toc: true
 ---
 
-\[2x^2\]
+added mathjax plugin 
 
----
-
-test latex
+$$2x^2$$
