@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 excerpt: "Some details about me."
 last_modified_at: 2021-04-10
+author_profile: true
 toc: true
 ---
 
@@ -12,6 +13,7 @@ Xin chào, mình là Linh...
 
 ## Về mình
 
+
 Mình tên là Linh, đầy đủ là Võ Trần Nhã Linh.
 
 Mình là kẻ lãng du đi tìm cái đẹp trong tri thức. Đừng cảm thấy khó hiểu, đã là cái đẹp thì đâu dễ chạm tới, nhể?
@@ -19,6 +21,8 @@ Mình là kẻ lãng du đi tìm cái đẹp trong tri thức. Đừng cảm th�
 Điều đẹp nhất, luôn chỉ có thể cảm nhận bằng trái tim.
 
 Và sự tử tế, làm nên giá trị một con người.
+
+---
 
 ## Về blog
 
