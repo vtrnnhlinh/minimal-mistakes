@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 layout: single
 last_modified_at: 2021-04-10
+author_profile: true
 toc: true
 ---
 
