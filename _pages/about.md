@@ -1,9 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Some details about me."
+layout: single
 last_modified_at: 2021-04-10
-author_profile: true
 toc: true
 ---
 
