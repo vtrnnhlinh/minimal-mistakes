@@ -40,7 +40,9 @@ Chiến thuật để giải một bài tập Vật lí như sau:
 
 *Mô hình* là một phiên bản đơn giản hóa của một hệ thống Vật lí. Bỏ qua một vài yếu tố nhỏ để tập trung vào những **vấn đề quan trọng nhất** của hệ thống.
 
-Ví dụ như khi cầu thủ đánh vào quả bóng chày. Bạn có biết bao nhiêu yếu tố tác động lên hướng di chuyển của quả bóng? Chúng ta có thể đếm sơ sơ như lực tác động của cầu thủ, hướng gió, lực cản không khí, trọng lực, chuyển động của trái Đất quanh trục,... Trong trường hợp này, khi tính toán, ta coi quả bóng là một chất điểm trong không khí, với hai lực tác động chủ yếu là lực đánh bóng và trọng lực để có phân tích tương đối về hướng chuyển động của nó. Đây là một dạng toán đã được học ở Vật lí 10.
+Ví dụ như khi cầu thủ đánh vào quả bóng chày. Bạn có biết bao nhiêu yếu tố tác động lên hướng di chuyển của quả bóng? Chúng ta có thể đếm sơ sơ như lực tác động của cầu thủ, hướng gió, lực cản không khí, trọng lực, chuyển động của trái Đất quanh trục, hình dạng quả bóng lúc này cũng là một thứ rất khó nói... Trong trường hợp này, khi tính toán, ta coi quả bóng là một chất điểm trong không khí, với hai lực tác động chủ yếu là lực đánh bóng và trọng lực để có phân tích tương đối về hướng chuyển động của nó. Đây là một dạng toán đã được học ở Vật lí 10.
+
+![tennis ball](https://i.imgur.com/vutQDLH.jpg)
 
 ## Một số đơn vị đo lường chuẩn (SI)
 
